@@ -1,5 +1,7 @@
 FROM node:12
 
+RUN echo "Whats up"
+
 # Create app directory
 WORKDIR /app
 
