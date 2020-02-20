@@ -1,17 +1,16 @@
 FROM node:12.16.1
 
 # Delete previous /app
-RUN ls -al /app
-RUN rm -rf /app
-RUN ls -al /app
 
 # Create app directory
 WORKDIR /app
-RUN ls -al /app
+RUN ls -l /app
+RUN rm -rf /app
+RUN ls -l /app
 
 COPY . /app
-RUN ls -al /app
-RUN ls -al /
+RUN ls -l /app
+RUN ls -l /
 
 
 #RUN npm uninstall core-js
