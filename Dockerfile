@@ -4,7 +4,7 @@ FROM node:12.16.1
 
 # Create app directory
 WORKDIR /app
-RUN rm -rf ./*
+CMD rm -rf /app
 
 COPY . /app
 
