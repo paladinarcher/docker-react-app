@@ -7,10 +7,10 @@ COPY . /app
 
 
 #RUN npm uninstall core-js
-RUN npm install --save core-js@3
-RUN npm install --save eslint-plugin-react-hooks
-RUN npm install --save-dev @testing-library/react
-RUN npm install
+#RUN npm install --save core-js@3
+#RUN npm install --save eslint-plugin-react-hooks
+#RUN npm install --save-dev @testing-library/react
+#RUN npm install
 
 CMD npm start
 
