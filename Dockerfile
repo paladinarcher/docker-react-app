@@ -1,5 +1,5 @@
 #FROM node:12.16.1
-FROM node:13.9.0
+FROM node:11
 
 # Delete previous /app
 
