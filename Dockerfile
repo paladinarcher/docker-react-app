@@ -5,7 +5,7 @@ FROM node:12.16.1
 # Create app directory
 WORKDIR /app
 #CMD rm -rf /app
-RUN npm uninstall
+RUN npm uninstall *
 
 COPY . /app
 
