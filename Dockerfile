@@ -1,5 +1,8 @@
 FROM node:12.16.1
 
+# Delete previous /app
+RUN rm -rf /app
+
 # Create app directory
 WORKDIR /app
 
