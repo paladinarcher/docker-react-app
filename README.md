@@ -1,3 +1,15 @@
+Use these commands to create a docker image:
+
+docker build -t dr-app .
+docker images
+docker ps
+docker run -p 3005:3000 dr-app
+browse to localhost:3005
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
