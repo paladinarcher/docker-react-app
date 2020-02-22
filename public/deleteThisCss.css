@@ -1,4 +1,688 @@
+@media screen and (min-width: 768px) {
+  .header {
+      position: relative;
+      min-height: 159px;
+  }
+}
+@media screen and (min-width: 481px) {
+  .header {
+      min-height: 167.19px;
+  }
+}
+.header {
+    background: #112e51;
+    clear: both;
+    margin: 0;
+    padding: 0;
+    min-height: 189.19px;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+header {
+    display: block;
+}
+Style Attribute {
+    cursor: default;
+}
+body {
+    background: #fff;
+    color: #323a45;
+    font-size: 1.6rem;
+    font-family: inherit;
+}
+body {
+    background-color: #fff;
+    color: #212121;
+    overflow-x: hidden;
+}
+body {
+    color: #222;
+    cursor: auto;
+    font-family: Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+body, html {
+    font-size: 100%;
+}
+html {
+    font-size: 10px;
+    font-weight: 500;
+}
+html {
+    font-family: Source Sans Pro,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+user agent stylesheet
+html {
+    color: -internal-root-color;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
 
-.delete-this {
-  background-color: green;
+
+
+
+
+
+
+
+
+
+.merger .sign-in-link {
+  margin: 0;
+}
+
+.sign-in-link {
+  color: inherit!important;
+  text-decoration: none;
+}
+.usa-button, .usa-button-primary, .usa-button-primary:visited, .usa-button:visited, [type=button], [type=image], [type=reset], [type=submit], button {
+  background-color: #0071bb;
+}
+@media screen and (min-width: 481px) {
+  .usa-button, .usa-button-primary, .usa-button-primary:visited, .usa-button:visited, [type=button], [type=image], [type=reset], [type=submit], button {
+    width: auto;
+  }
+}
+.usa-button, .usa-button-primary, .usa-button-primary:visited, .usa-button:visited, [type=button], [type=image], [type=reset], [type=submit], button {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  margin-top: .5em;
+  margin-right: .5em;
+  margin-bottom: .5em;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: 0;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Source Sans Pro,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  padding: 1rem 2rem;
+  text-align: center;
+  text-decoration: none;
+  width: 100%;
+}
+button, html input[type=button], input[type=reset], input[type=submit] {
+  -webkit-appearance: button;
+  cursor: pointer;
+}
+button, select {
+  text-transform: none;
+}
+button {
+  overflow: visible;
+}
+button, input, optgroup, select, textarea {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: border-box;
+}
+user agent stylesheet
+button {
+  -webkit-appearance: button;
+  -webkit-writing-mode: horizontal-tb !important;
+  text-rendering: auto;
+  color: buttontext;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+  display: inline-block;
+  text-align: center;
+  align-items: flex-start;
+  cursor: default;
+  background-color: buttonface;
+  box-sizing: border-box;
+  margin: 0em;
+  font: 400 13.3333px Arial;
+  padding: 1px 6px;
+  border-width: 2px;
+  border-style: outset;
+  border-color: buttonface;
+  border-image: initial;
+}
+.sign-in-nav {
+  color: #fff;
+  white-space: nowrap;
+}
+Style Attribute {
+  cursor: default;
+}
+body {
+  background: #fff;
+  color: #323a45;
+  font-size: 1.6rem;
+  font-family: inherit;
+}
+body {
+  background-color: #fff;
+  color: #212121;
+  overflow-x: hidden;
+}
+body {
+  color: #222;
+  cursor: auto;
+  font-family: Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+body, html {
+  font-size: 100%;
+}
+html {
+  font-size: 10px;
+  font-weight: 500;
+}
+html {
+  font-family: Source Sans Pro,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+}
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+user agent stylesheet
+html {
+  color: -internal-root-color;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: border-box;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: border-box;
+}
+
+
+
+
+
+#mega-menu .vetnav-level1:active, #mega-menu .vetnav-level1:focus, #mega-menu .vetnav-level1:hover, #mega-menu .vetnav-level1:visited {
+  color: #fff;
+}
+#mega-menu a.vetnav-level1 {
+  color: #fff;
+}
+.vetnav-level1:active, .vetnav-level1:visited {
+  color: inherit;
+}
+a:visited {
+  color: #4c2c92;
+}
+@media screen and (min-width: 768px) {
+  .vetnav-level1 {
+    background-color: transparent;
+    background-size: 1rem auto;
+  }
+}
+.vetnav-level1 {
+  -webkit-font-smoothing: antialiased;
+  background-color: #003e73;
+  background-position: right 3rem center;
+  background-repeat: no-repeat;
+  background-size: 1.3rem auto;
+  border-radius: 0;
+  border-top: 3px solid transparent;
+  color: #fff;
+  cursor: pointer;
+  display: block;
+  font-weight: 700;
+  line-height: 1;
+  margin: 0;
+  padding: 1.6rem;
+  text-align: left;
+  text-decoration: none;
+  width: 100%;
+}
+a, a:hover {
+  text-decoration: underline;
+}
+a {
+  color: #004795;
+  transition-duration: .3s;
+  transition-timing-function: ease-in-out;
+  transition-property: color,background-color,border-color;
+}
+a {
+  color: #0071bb;
+}
+a {
+  background-color: transparent;
+}
+injected stylesheet
+.deepLinkResult a span, .resultDisplayUrl span, [data-security-check].safe-search-status-bad, [data-security-check].safe-search-status-good, [data-security-check].safe-search-status-unknown, [data-security-check].safe-search-status-warning, a {
+  cursor: pointer;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: border-box;
+}
+user agent stylesheet
+a:-webkit-any-link {
+  color: -webkit-link;
+  cursor: pointer;
+  text-decoration: underline;
+}
+li {
+  line-height: 1.5;
+  margin-bottom: .5em;
+}
+user agent stylesheet
+li {
+  text-align: -webkit-match-parent;
+}
+#vetnav-menu {
+  height: auto;
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+}
+ul {
+  padding: 0 0 0 1.5em;
+  list-style: square;
+}
+user agent stylesheet
+ul {
+  list-style-type: disc;
+}
+.header .login-container {
+  background: #112e51;
+  flex-wrap: wrap;
+  white-space: nowrap;
+}
+#mega-menu {
+  flex: 1 0 100%;
+  color: #0071bb;
+  width: 100%;
+  z-index: 2;
+}
+Style Attribute {
+  cursor: default;
+}
+body {
+  background: #fff;
+  color: #323a45;
+  font-size: 1.6rem;
+  font-family: inherit;
+}
+body {
+  background-color: #fff;
+  color: #212121;
+  overflow-x: hidden;
+}
+body {
+  color: #222;
+  cursor: auto;
+  font-family: Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+body, html {
+  font-size: 100%;
+}
+html {
+  font-size: 10px;
+  font-weight: 500;
+}
+html {
+  font-family: Source Sans Pro,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+}
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+user agent stylesheet
+html {
+  color: -internal-root-color;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: border-box;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: inherit;
+}
+*, :after, :before {
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+@media screen and (min-width: 768px) {
+  .header {
+      position: relative;
+      min-height: 159px;
+  }
+}
+@media screen and (min-width: 481px) {
+  .header {
+      min-height: 167.19px;
+  }
+}
+.header {
+    background: #112e51;
+    clear: both;
+    margin: 0;
+    padding: 0;
+    min-height: 189.19px;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+header {
+    display: block;
+}
+Style Attribute {
+    cursor: default;
+}
+body {
+    background: #fff;
+    color: #323a45;
+    font-size: 1.6rem;
+    font-family: inherit;
+}
+body {
+    background-color: #fff;
+    color: #212121;
+    overflow-x: hidden;
+}
+body {
+    color: #222;
+    cursor: auto;
+    font-family: Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+body, html {
+    font-size: 100%;
+}
+html {
+    font-size: 10px;
+    font-weight: 500;
+}
+html {
+    font-family: Source Sans Pro,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+html {
+    color: -internal-root-color;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+
+
+
+.inline {
+  float: left;
+  position: relative;
+  top: -25px;
+  left: -40px;
+}
+
+.full-width {
+  max-width: 1000px;
+  background-color: #112E51;
+}
+
+.back-color {
+  background-color: #112E51;
+  color: white;
+  border-radius: 0px;
+}
+.back-color:hover {
+  background-color: #0071BB;
+  color: white;
+}
+
+.float-right {
+  float: right;
+  display: inline;
+}
+.move-btn1 {
+  color: white;
+  position: absolute;
+  top: -75px;
+  left: -288px;
+}
+.move-btn2 {
+  color: white;
+  position: absolute;
+  top: -75px;
+  left: -190px;
+}
+.move-btn3 {
+  color: white;
+  position: absolute;
+  top: -75px;
+  left: -75px;
+}
+
+.trim-bot-margin {
+  padding-bottom: 20px;
+}
+
+.relative-position {
+  position: relative;
+  top: 30px;
+}
+.add-margin {
+  margin: 2px;
+  left: 10px;
+  top: 30px;
+}
+.footer-color {
+  background-color: #112E51;
+  color: white;
+}
+a.footer-color {
+  color: white;
+}
+a.footer-color:visited {
+  color: #0071BB;
+}
+.dev-lev-logo {
+  height: 60px;
+  top: 20px;
+}
+.move-it-down {
+  position: relative;
+  top: 25px;
+}
+.the-line {
+  position: relative;
+  top: 30px;
 }
