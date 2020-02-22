@@ -629,8 +629,8 @@ html {
 }
 
 .float-right {
+  display: inline-block;
   float: right;
-  display: inline;
 }
 .move-btn1 {
   color: white;
@@ -677,6 +677,7 @@ a.footer-color:visited {
 .dev-lev-logo {
   height: 60px;
   top: 20px;
+  margin-left: auto;
 }
 .move-it-down {
   position: relative;
@@ -685,4 +686,11 @@ a.footer-color:visited {
 .the-line {
   position: relative;
   top: 30px;
+}
+.white-line {
+  stroke:rgb(255,255,255);
+  stroke-width:1;
+}
+.thousand-width {
+  width: 1000px;
 }
